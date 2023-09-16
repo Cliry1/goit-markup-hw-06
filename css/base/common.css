@@ -1,0 +1,15 @@
+body{
+  font-family: 'Roboto', sans-serif;
+  color: var(--slate, #434455);
+  font-style: normal;
+  background: #FFF;
+}
+ul{
+  list-style-type: none;
+}
+a{
+  text-decoration: none;
+}
+img{
+  display: block;
+}
