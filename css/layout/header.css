@@ -25,16 +25,17 @@ header{
   align-items: center;
   justify-content: space-between;
 }
-@media screen and (max-width:767.99px) {
+@media screen and (max-width:767.5px) {
   .contacts{
     display: none;
   }
   .nav-list{
     display: none;
   }
-  header .container{
-    padding: 0 16px;
+  .header{
+    padding: 16px 0;
   }
+
   .open-mobile-menu-button{
     border:none;
     background-color: transparent;
