@@ -1,7 +1,8 @@
 footer{
   background: var(--navyblue, #2E2F42);
+}
+footer .container{
   padding: 96px 16px;
-
 }
 .footer-logo{
   color: var(--iris, #4D5AE5);
@@ -146,7 +147,7 @@ align-items: center;
   .footer-subscribe{
     margin: 0 0 16px 0;
   }
-  footer{
+  footer .container{
     background: var(--navyblue, #2E2F42);
     padding: 96px 108px;
   }
@@ -179,7 +180,7 @@ align-items: center;
   .footer-social-media-links{
     margin: 0;
   }
-  footer{
+  footer .container{
     padding: 100px 0;
   }
   .footer-logo-box{
